@@ -1,0 +1,407 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Tiny carousel horizontal slider plus\n"
+"POT-Creation-Date: 2019-02-14 18:30+0800\n"
+"PO-Revision-Date: 2019-02-14 18:30+0800\n"
+"Last-Translator: \n"
+"Language-Team: www.gopiplus.com <www.gopiplus.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../classes/tiny-carousel-loadwidget.php:86
+msgid "Please check your short code. Gallery does not exists for this Id."
+msgstr ""
+
+#: ../classes/tiny-carousel-register.php:55
+msgid "These tables could not be created on installation "
+msgstr ""
+
+#: ../classes/tiny-carousel-register.php:81
+#: ../classes/tiny-carousel-register.php:82
+msgid "Tiny Carousel"
+msgstr ""
+
+#: ../classes/tiny-carousel-register.php:84
+#: ../classes/tiny-carousel-register.php:85
+#: ../page/tiny-carousel-gallery-show.php:46
+msgid "Gallery Details"
+msgstr ""
+
+#: ../classes/tiny-carousel-register.php:87
+#: ../classes/tiny-carousel-register.php:88
+#: ../page/tiny-carousel-image-show.php:46
+msgid "Image Details"
+msgstr ""
+
+#: ../classes/tiny-carousel-register.php:102
+#: ../page/tiny-carousel-gallery-add.php:31
+#: ../page/tiny-carousel-gallery-add.php:131
+#: ../page/tiny-carousel-gallery-edit.php:48
+#: ../page/tiny-carousel-gallery-edit.php:132
+msgid "Enter title for your gallery."
+msgstr ""
+
+#: ../classes/tiny-carousel-register.php:103
+#: ../page/tiny-carousel-gallery-add.php:39
+#: ../page/tiny-carousel-gallery-add.php:135
+#: ../page/tiny-carousel-gallery-edit.php:56
+msgid ""
+"Enter your image width, You should add same width images in this gallery. "
+"(Ex: 200)"
+msgstr ""
+
+#: ../classes/tiny-carousel-register.php:104
+msgid "Enter your image width, only number."
+msgstr ""
+
+#: ../classes/tiny-carousel-register.php:105
+#: ../page/tiny-carousel-gallery-add.php:47
+#: ../page/tiny-carousel-gallery-add.php:139
+#: ../page/tiny-carousel-gallery-edit.php:64
+msgid ""
+"Enter your image height, You should add same height images in this gallery. "
+"(Ex: 150)"
+msgstr ""
+
+#: ../classes/tiny-carousel-register.php:106
+msgid "Enter your image height, only number."
+msgstr ""
+
+#: ../classes/tiny-carousel-register.php:107
+#: ../page/tiny-carousel-gallery-add.php:60
+#: ../page/tiny-carousel-gallery-add.php:157
+#: ../page/tiny-carousel-gallery-edit.php:77
+#: ../page/tiny-carousel-gallery-edit.php:158
+msgid "Enter auto interval time in millisecond. (Ex: 1500)"
+msgstr ""
+
+#: ../classes/tiny-carousel-register.php:108
+msgid "Enter auto interval time in millisecond, only number."
+msgstr ""
+
+#: ../classes/tiny-carousel-register.php:109
+#: ../page/tiny-carousel-gallery-add.php:68
+#: ../page/tiny-carousel-gallery-add.php:161
+#: ../page/tiny-carousel-gallery-edit.php:85
+#: ../page/tiny-carousel-gallery-edit.php:162
+msgid "Enter animation duration in millisecond. (Ex: 1000)"
+msgstr ""
+
+#: ../classes/tiny-carousel-register.php:110
+msgid "Enter animation duration in millisecond, only number."
+msgstr ""
+
+#: ../classes/tiny-carousel-register.php:111
+#: ../classes/tiny-carousel-register.php:123
+msgid "Do you want to delete this record?"
+msgstr ""
+
+#: ../classes/tiny-carousel-register.php:120
+#: ../page/tiny-carousel-image-add.php:29
+#: ../page/tiny-carousel-image-add.php:131
+#: ../page/tiny-carousel-image-edit.php:45
+#: ../page/tiny-carousel-image-edit.php:134
+msgid "Enter image title."
+msgstr ""
+
+#: ../classes/tiny-carousel-register.php:121
+msgid "Enter picture url. url must start with either http or https."
+msgstr ""
+
+#: ../classes/tiny-carousel-register.php:122
+#: ../page/tiny-carousel-image-add.php:171
+#: ../page/tiny-carousel-image-edit.php:180
+msgid "Select gallery name for this picture."
+msgstr ""
+
+#: ../page/tiny-carousel-gallery-add.php:82
+#: ../page/tiny-carousel-image-add.php:58
+msgid "New details was successfully added."
+msgstr ""
+
+#: ../page/tiny-carousel-gallery-add.php:86
+#: ../page/tiny-carousel-gallery-edit.php:103
+#: ../page/tiny-carousel-image-add.php:62
+#: ../page/tiny-carousel-image-edit.php:79
+msgid "Oops unexpected error occurred."
+msgstr ""
+
+#: ../page/tiny-carousel-gallery-add.php:117
+#: ../page/tiny-carousel-gallery-edit.php:118
+#: ../page/tiny-carousel-image-add.php:91
+#: ../page/tiny-carousel-image-edit.php:94
+msgid "Click here"
+msgstr ""
+
+#: ../page/tiny-carousel-gallery-add.php:118
+#: ../page/tiny-carousel-gallery-edit.php:119
+#: ../page/tiny-carousel-image-add.php:92
+#: ../page/tiny-carousel-image-edit.php:95
+msgid "to view the details"
+msgstr ""
+
+#: ../page/tiny-carousel-gallery-add.php:127
+msgid "Add Gallery Details"
+msgstr ""
+
+#: ../page/tiny-carousel-gallery-add.php:129
+#: ../page/tiny-carousel-gallery-edit.php:130
+#: ../page/tiny-carousel-gallery-show.php:58
+#: ../page/tiny-carousel-gallery-show.php:72
+#: ../page/tiny-carousel-image-add.php:156
+#: ../page/tiny-carousel-image-edit.php:159
+msgid "Gallery title"
+msgstr ""
+
+#: ../page/tiny-carousel-gallery-add.php:133
+#: ../page/tiny-carousel-gallery-edit.php:134
+#: ../page/tiny-carousel-gallery-show.php:60
+#: ../page/tiny-carousel-gallery-show.php:74
+msgid "Width"
+msgstr ""
+
+#: ../page/tiny-carousel-gallery-add.php:137
+#: ../page/tiny-carousel-gallery-edit.php:138
+#: ../page/tiny-carousel-gallery-show.php:61
+#: ../page/tiny-carousel-gallery-show.php:75
+msgid "Height"
+msgstr ""
+
+#: ../page/tiny-carousel-gallery-add.php:141
+#: ../page/tiny-carousel-gallery-edit.php:142
+#: ../page/tiny-carousel-gallery-show.php:62
+#: ../page/tiny-carousel-gallery-show.php:76
+msgid "Controls"
+msgstr ""
+
+#: ../page/tiny-carousel-gallery-add.php:146
+#: ../page/tiny-carousel-gallery-edit.php:147
+msgid "Want to use the Left, Right arrow button in your gallery?"
+msgstr ""
+
+#: ../page/tiny-carousel-gallery-add.php:148
+#: ../page/tiny-carousel-gallery-edit.php:149
+msgid "Auto interval"
+msgstr ""
+
+#: ../page/tiny-carousel-gallery-add.php:153
+#: ../page/tiny-carousel-gallery-edit.php:154
+msgid "Want to add auto interval to move one image from another?"
+msgstr ""
+
+#: ../page/tiny-carousel-gallery-add.php:155
+#: ../page/tiny-carousel-gallery-edit.php:156
+#: ../page/tiny-carousel-gallery-show.php:63
+#: ../page/tiny-carousel-gallery-show.php:77
+msgid "Interval time"
+msgstr ""
+
+#: ../page/tiny-carousel-gallery-add.php:159
+#: ../page/tiny-carousel-gallery-edit.php:160
+#: ../page/tiny-carousel-gallery-show.php:64
+#: ../page/tiny-carousel-gallery-show.php:78
+msgid "Animation"
+msgstr ""
+
+#: ../page/tiny-carousel-gallery-add.php:163
+#: ../page/tiny-carousel-gallery-edit.php:164
+msgid "Random display"
+msgstr ""
+
+#: ../page/tiny-carousel-gallery-add.php:168
+#: ../page/tiny-carousel-gallery-edit.php:169
+msgid "Do you want to display images in random order?"
+msgstr ""
+
+#: ../page/tiny-carousel-gallery-add.php:172
+#: ../page/tiny-carousel-gallery-edit.php:174
+#: ../page/tiny-carousel-image-add.php:175
+#: ../page/tiny-carousel-image-edit.php:185
+msgid "Submit"
+msgstr ""
+
+#: ../page/tiny-carousel-gallery-add.php:173
+#: ../page/tiny-carousel-gallery-edit.php:175
+#: ../page/tiny-carousel-image-add.php:176
+#: ../page/tiny-carousel-image-edit.php:186
+msgid "Cancel"
+msgstr ""
+
+#: ../page/tiny-carousel-gallery-add.php:174
+#: ../page/tiny-carousel-gallery-edit.php:176
+#: ../page/tiny-carousel-gallery-show.php:127
+#: ../page/tiny-carousel-image-add.php:177
+#: ../page/tiny-carousel-image-edit.php:187
+#: ../page/tiny-carousel-image-show.php:144
+msgid "Help"
+msgstr ""
+
+#: ../page/tiny-carousel-gallery-edit.php:18
+#: ../page/tiny-carousel-gallery-show.php:18
+#: ../page/tiny-carousel-image-edit.php:14
+#: ../page/tiny-carousel-image-show.php:18
+msgid "Oops, selected details doesnt exist."
+msgstr ""
+
+#: ../page/tiny-carousel-gallery-edit.php:99
+#: ../page/tiny-carousel-image-edit.php:75
+msgid "Details was successfully updated."
+msgstr ""
+
+#: ../page/tiny-carousel-gallery-edit.php:128
+msgid "Edit Gallery Details"
+msgstr ""
+
+#: ../page/tiny-carousel-gallery-edit.php:136
+msgid ""
+"Enter your image width, You should add same size (width) images in this "
+"gallery. (Ex: 200)"
+msgstr ""
+
+#: ../page/tiny-carousel-gallery-edit.php:140
+msgid ""
+"Enter your image height, You should add same size (height) images in this "
+"gallery. (Ex: 150)"
+msgstr ""
+
+#: ../page/tiny-carousel-gallery-show.php:33
+#: ../page/tiny-carousel-image-show.php:33
+msgid "Selected record was successfully deleted."
+msgstr ""
+
+#: ../page/tiny-carousel-gallery-show.php:59
+#: ../page/tiny-carousel-gallery-show.php:73
+msgid "Short Code"
+msgstr ""
+
+#: ../page/tiny-carousel-gallery-show.php:65
+#: ../page/tiny-carousel-gallery-show.php:79
+msgid "Random"
+msgstr ""
+
+#: ../page/tiny-carousel-gallery-show.php:95
+#: ../page/tiny-carousel-image-show.php:91
+msgid "Edit"
+msgstr ""
+
+#: ../page/tiny-carousel-gallery-show.php:97
+#: ../page/tiny-carousel-image-show.php:93
+msgid "Delete"
+msgstr ""
+
+#: ../page/tiny-carousel-gallery-show.php:115
+#: ../page/tiny-carousel-image-show.php:132
+msgid "No records available."
+msgstr ""
+
+#: ../page/tiny-carousel-gallery-show.php:126
+#: ../page/tiny-carousel-image-show.php:143
+msgid "Add New"
+msgstr ""
+
+#: ../page/tiny-carousel-gallery-show.php:129
+#: ../page/tiny-carousel-image-show.php:146
+msgid "Plugin configuration option"
+msgstr ""
+
+#: ../page/tiny-carousel-gallery-show.php:131
+#: ../page/tiny-carousel-image-show.php:148
+msgid "Add plugin in the posts or pages using short code."
+msgstr ""
+
+#: ../page/tiny-carousel-gallery-show.php:132
+#: ../page/tiny-carousel-image-show.php:149
+msgid "Add directly in to theme using PHP code."
+msgstr ""
+
+#: ../page/tiny-carousel-image-add.php:37
+#: ../page/tiny-carousel-image-edit.php:53
+msgid ""
+"Enter tiny-carousel popup url. url must start with either http or https."
+msgstr ""
+
+#: ../page/tiny-carousel-image-add.php:127
+msgid "Add Image Details"
+msgstr ""
+
+#: ../page/tiny-carousel-image-add.php:129
+#: ../page/tiny-carousel-image-edit.php:132
+msgid "Title"
+msgstr ""
+
+#: ../page/tiny-carousel-image-add.php:133
+#: ../page/tiny-carousel-image-edit.php:136
+msgid "Image path (URL)"
+msgstr ""
+
+#: ../page/tiny-carousel-image-add.php:136
+#: ../page/tiny-carousel-image-edit.php:139
+msgid ""
+"Where is the picture located on the internet (ex: http://www.gopiplus.com/"
+"work/wp-content/uploads/pluginimages/88x88/1.jpg)"
+msgstr ""
+
+#: ../page/tiny-carousel-image-add.php:138
+#: ../page/tiny-carousel-image-edit.php:141
+#: ../page/tiny-carousel-image-show.php:60
+#: ../page/tiny-carousel-image-show.php:72
+msgid "Link"
+msgstr ""
+
+#: ../page/tiny-carousel-image-add.php:140
+#: ../page/tiny-carousel-image-edit.php:143
+msgid ""
+"When someone clicks on the picture, where do you want to send them. Link "
+"must start with either http or https."
+msgstr ""
+
+#: ../page/tiny-carousel-image-add.php:142
+#: ../page/tiny-carousel-image-edit.php:145
+msgid "Link target"
+msgstr ""
+
+#: ../page/tiny-carousel-image-add.php:147
+#: ../page/tiny-carousel-image-edit.php:150
+msgid "Target attribute specifies where to open the link."
+msgstr ""
+
+#: ../page/tiny-carousel-image-add.php:149
+#: ../page/tiny-carousel-image-edit.php:152
+#: ../page/tiny-carousel-image-show.php:62
+#: ../page/tiny-carousel-image-show.php:74
+msgid "Display"
+msgstr ""
+
+#: ../page/tiny-carousel-image-add.php:154
+#: ../page/tiny-carousel-image-edit.php:157
+msgid "Do you want the picture to show in your galler?"
+msgstr ""
+
+#: ../page/tiny-carousel-image-edit.php:130
+msgid "Edit Image Details"
+msgstr ""
+
+#: ../page/tiny-carousel-image-show.php:58
+#: ../page/tiny-carousel-image-show.php:70
+msgid "Image Title"
+msgstr ""
+
+#: ../page/tiny-carousel-image-show.php:59
+#: ../page/tiny-carousel-image-show.php:71
+msgid "Image URL"
+msgstr ""
+
+#: ../page/tiny-carousel-image-show.php:61
+#: ../page/tiny-carousel-image-show.php:73
+msgid "Link Target"
+msgstr ""
+
+#: ../page/tiny-carousel-image-show.php:63
+#: ../page/tiny-carousel-image-show.php:75
+msgid "Gallery Title"
+msgstr ""
